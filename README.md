@@ -27,13 +27,15 @@ You can set the font values in the conf file
 }
 ```
 
-###Floats
+###Floats/alignments
 You can set the font values in the conf file
 ```scss
 .test
 {
   @include float(start);
   @include float(end);
+  @include text-align(start);
+  @include text-align(end);
 }
 ```
 
