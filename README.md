@@ -1,6 +1,7 @@
 #Switch
 Switch is an easy way to normalize your padding, margins, colors, font sizes in your projects.
 It allows you to switch your css direction from left to right to right to left easily.
+It's aimed for projects that don't want to use bootstrap, while maintaining a global coherence.
 
 #Concept
 Switch is a set of mixins that map css properties. 
